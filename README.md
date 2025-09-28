@@ -1,2 +1,2 @@
 # array
-problem on array
+problems on array
